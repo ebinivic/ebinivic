@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ebinivic from Lagos Nigeria.
-- 👀 I’m interested in learning programming language such as python, C, NodeJS,unix, HTML and Css3 and Java
+- 👀 I’m interested in learning programming language such as REACT, C, NodeJS,unix, HTML and Css3 and Java
 - 🌱 I’m currently learning some new software engineering with ALx Africa, and cloud engineering with Google
 - 💞️ I’m looking to collaborate on new opportiunities to learn new programs and projects
 - 📫 How to reach me : +2348183033265
